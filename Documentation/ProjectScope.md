@@ -1,3 +1,5 @@
+Project Scope
+
 # MATH1010U Educational Game
 
 ## Description
