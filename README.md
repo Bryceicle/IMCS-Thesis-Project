@@ -1,7 +1,7 @@
 # MATH1010U Educational Game
 
 ## Description
-Develp and test an educational math game for the material covered in MATH1010U though the creation of three mini games for three overarching topics. This game will target students who might have struggled in the course in the previous semster, and who could benefit from a contextual and interactive medium to engange with the material. 
+Develop and test an educational math game for the material covered in MATH1010U though the creation of three mini games for three overarching topics. This game will target students who might have struggled in the course in the previous semster, and who could benefit from a contextual and interactive medium to engange with the material. 
 
 ## Deadline
 April 12th 2027 
@@ -15,12 +15,12 @@ The first deliverable will be the educational math game program packaged as an e
 
 ## Tasks
 1. Create a single player educational game focused on overarching 1010U Topics:
-	- Create Github repository to track and document changes
+	- Create GitHub repository to track and document changes
 	- Create algorithm to generate equations for use in game 
 	- Create a mini game for each of the three overarching topics: Limits, Derivatives, and Integrals
 	- Create system to adjust the level difficulty dynamically based on students performance
 	- Develop a system to create a profile in the game to track and store game performance via a randomly generated user id
-	- Allow for students to see their highscores and recent scores
+	- Allow for students to see their high scores and recent scores
 
 2. Test Effectiveness of Educational Game:
 	- Create system to aggregate and store the data collected by the game 
